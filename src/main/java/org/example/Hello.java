@@ -19,7 +19,7 @@ public class Hello
     {
         Hello hello = new Hello();
         hello.twoSum();
-        System.out.println("hello");
+        System.out.println("hello and welcome");
     }
 
 }

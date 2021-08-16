@@ -19,6 +19,7 @@ public class Hello
     {
         Hello hello = new Hello();
         hello.twoSum();
+        System.out.println("hello");
     }
 
 }

@@ -20,5 +20,6 @@ public class Hello {
         hello.twoSum();
         System.out.println("hello");
         System.out.println("welcome");
+        System.out.println("new case");
     }
 }
